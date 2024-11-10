@@ -1,1 +1,1 @@
-#Symfony#
+Symfony
